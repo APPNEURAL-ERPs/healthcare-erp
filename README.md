@@ -1,3 +1,3 @@
-# Intellistra-Healthcare
+# healthcare-erp
 
 Healthcare ERP — powered by APPNEURAL
